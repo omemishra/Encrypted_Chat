@@ -10,7 +10,7 @@ def omemishra():
 	print "       \        |  |     | |      |       /      "
 	print "        o-o     o  o     o-o-     o      o---o   "
 	print "                                                 "
-	print "    ================Encrypt The Chat ========De.Hacker"
+	print "    ================Encrypt The Chat ========De.Hacker(Ome)"
 
 	print " "
 
