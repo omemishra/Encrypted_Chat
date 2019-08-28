@@ -19,7 +19,7 @@ def omemishra():
 	print '--------------------------------------------------------'
 	print ' -> 1 : Your PC is Master (LAN)'
 	print ' -> 2 : Your PC is Slave (LAN)'
-	print ' -> 3 : Wants To chat Over Intra-Net(WAN)'
+	print ' -> 3 : Wants To chat Over Inter-Net(WAN)'
 	print ' -> 4 : Exit '
 	print '      '
 	option = raw_input("Enter Your Choice:- ")
